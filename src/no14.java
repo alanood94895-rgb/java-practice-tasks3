@@ -1,6 +1,6 @@
 public class no14 {
     public static void main (String[] args){
-        System.out.println();
+        System.out.println(no14(new int[]{1, 2, 3}));
     }
             public static boolean no14 (int[] nums) {
                 boolean has1 = false;
